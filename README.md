@@ -1,2 +1,2 @@
 # calculator
-My calculator project
+My calculator project that's been made of JavaFX 
